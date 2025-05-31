@@ -1,0 +1,28 @@
+# Pliki buildów i binarki
+bin/
+obj/
+*.exe
+*.dll
+
+# Ustawienia użytkownika Visual Studio
+.vs/
+*.user
+*.suo
+
+# VS Code / JetBrains (opcjonalnie)
+.vscode/
+.idea/
+
+# NuGet i build cache
+packages/
+*.nupkg
+project.assets.json
+*.csproj.user
+
+# Pliki tymczasowe
+*.log
+*.tmp
+
+# Windows
+Thumbs.db
+desktop.ini
